@@ -1,16 +1,25 @@
-# buscador_gifs
+# Buscador de Gifs - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter application.
+https://user-images.githubusercontent.com/70405308/220756852-36bdba42-a14d-4e66-9053-9e2a203a14d3.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse Buscador de Gifs feito em Dart + Flutter. O Buscador traz os gifs mais compartilhados do momento e tem a opção de busca por texto. É possivel compartilhar os gifs nas redes sociais através da biblioteca share. Para finalizar, todos os dados do Gifs foram pegos da API: giphy.com.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Validação de conexão com Internet
+* Validação de dados da API
+* Compartilhamento de Gifs para redes sociais
+* Busca de Gif por texto
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* API: GIPHY
+* Lib: Share
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [GIPHY](https://developers.giphy.com)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
